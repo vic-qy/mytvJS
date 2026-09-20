@@ -35,3 +35,19 @@ javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/hntv.js?id=jczy
 javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/hntv.js?id=gxpd
 #EXTINF:-1 group-title="河南频道" tvg-name="欢腾购物" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/欢腾购物.png",欢腾购物
 javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/hntv.js?id=htgw
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳卫视4K.png",深圳卫视4K超高清
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=tv4k
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳卫视.png",深圳卫视
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=tv
+#EXTINF:-1 group-title="深圳频道" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳都市.png",都市频道
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=ds
+#EXTINF:-1 group-title="深圳频道" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳电视剧.png",电视剧频道
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=dsj
+#EXTINF:-1 group-title="深圳频道" tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳少儿.png",少儿频道
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=se
+#EXTINF:-1 group-title="深圳频道" tvg-name="深圳移动" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳移动.png",移动电视
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=ydds
+#EXTINF:-1 group-title="深圳频道" tvg-name="宜和购物" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/宜和购物.png",宜和购物频道
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=yhg
+#EXTINF:-1 group-title="深圳频道" tvg-name="深圳国际" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/深圳国际.png",国际频道
+javascript://https://cdn.jsdelivr.net/gh/vic-qy/mytvJS@main/js/sztv.js?id=gj
